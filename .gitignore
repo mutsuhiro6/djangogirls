@@ -1,9 +1,8 @@
 *.pyc
 *~
 __pycache__
-djangogirls/
+/djangogirls
 db.sqlite3
 /static
 .DS_Store
 .idea/
-venv/
